@@ -7,7 +7,7 @@ Bem-vindo ao meu perfil do GitHub! Sou Miguel Soares, um estudante, apaixonado(a
 
 - Linguagens de Programação: Pawn, C++, C, JS, HTML, CSS.
 - Ferramentas: Visual Studio Code, WebStorm.
-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miguel517&layout=compact)
+
 ## Contato
 
 - Discord: migueeelzx
