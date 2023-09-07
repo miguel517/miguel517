@@ -13,4 +13,4 @@ Bem-vindo ao meu perfil do GitHub! Sou Miguel Soares, um estudante, apaixonado(a
 
 - Discord: migueeelzx
 - Email: miguelrsoares11@gmail.com
-- LinkedIn:[miguelrsoares](www.linkedin.com/in/miguelrsoares)
+- LinkedIn:[ miguelrsoares](www.linkedin.com/in/miguelrsoares)
