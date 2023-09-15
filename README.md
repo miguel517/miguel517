@@ -26,6 +26,11 @@
  ![VisualStudio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
  ![WebStorm](https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=WebStorm&logoColor=white)
 
+  ### 🎨  ●  Designer
+
+  ![Photoshop](https://aleen42.github.io/badges/src/photoshop.svg)
+  ![ai](https://aleen42.github.io/badges/src/illustrator.svg)
+  
 ## 📞  ●  Contato
 
 ● Discrod: migueeelzx
