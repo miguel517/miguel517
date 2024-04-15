@@ -1,6 +1,6 @@
 # Bem-vindo ao meu perfil! Prazer, Miguel.
 
-📕 •  Estudante de Eletrotécnica e Redes de Computadores.
+📕 •  Aspirante a Técnico em Eletrotécnica.
 
 🌐 •  Desenvolvedor web.
 
