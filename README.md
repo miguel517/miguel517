@@ -32,6 +32,4 @@
 
 ## 📞  ●  Contato
 
-● Discrod: migueeelzx
-
 ● Email: ribeirosoaresmiguel@gmail.com
